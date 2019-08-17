@@ -12,7 +12,7 @@ List::List(void)
 List::~List(void)
 {
 }
-
+//this is my added comment
 bool List::IsEmpty () { return size==0;}
 bool List::IsFull () {return (size == MaxSize); }
 
