@@ -10,7 +10,7 @@ private:
 // data members - usually private
 int size;
 DataType Item [MaxSize];
-
+//the added comment
 public:
 List(void); //constructor -- can be overloaded; not a member function
 ~List(void);
